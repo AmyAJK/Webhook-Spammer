@@ -7,5 +7,13 @@
 
 ---  
 
+## 📂 Requirements
+```
+requests
+colorama
+```
+
+---  
+
 ## 👀 Demo  
 ![DEMO](https://cdn.discordapp.com/attachments/808432523264262154/815566905330499584/unknown.png)
